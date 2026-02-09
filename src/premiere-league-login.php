@@ -4,7 +4,7 @@ session_start();
 
 // Connexion à la base de données
 $host = "localhost";
-$dbname = "football_analysis";
+$dbname = "football";
 $username = "root";
 $password = "";
 
