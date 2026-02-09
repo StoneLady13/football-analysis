@@ -1,5 +1,5 @@
-initialisation 
-# Terminology Git & GitHub
+
+# Definition
 
 ## 1. Dépôt (Repository)
 Espace où tout le code et les fichiers du projet sont stockés et versionnés.  
