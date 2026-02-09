@@ -1,11 +1,10 @@
 # Fichiers PHP
-vendor/
+/vendor/
 .env
 *.log
 
 # Fichiers système
 .DS_Store
-Thumbs.db
 
 # Dossiers temporaires
 node_modules/
