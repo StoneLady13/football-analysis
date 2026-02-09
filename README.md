@@ -1,2 +1,2 @@
 # football-analysis
-Analyse de football 
+Analyse de football par partie
