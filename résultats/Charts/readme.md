@@ -1,1 +1,2 @@
-# no result for instant
+results/charts/.gitkeep
+
