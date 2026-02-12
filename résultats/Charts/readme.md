@@ -1,2 +1,5 @@
+chart.png
+results/charts/chart.png
+Déplacer chart.png vers results/charts
 
 
